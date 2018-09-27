@@ -1,1 +1,1 @@
-# for-install-git
+istallgit
